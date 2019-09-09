@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NetworkStateDemo</string>
+    <string name="noInternet">Network Unavailable</string>
+    <string name="detail">There\'s No Network Services, Please Check Your Connection!</string>
+    <string name="noResponse">Connection Error</string>
+    <string name="noresponse_detail">Your Connection Timed Out, Please Try Reconnecting!</string>
+    <string name="verification_issue">verification issue</string>
+    <string name="detail_verify_issue">There was an issue while trying to verify your identity!</string>
+    <string name="content">content</string>
+    <string name="drink_name">Drink Name</string>
+    <string name="retry">retry</string>
+</resources>
